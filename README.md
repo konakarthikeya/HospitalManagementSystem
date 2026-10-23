@@ -46,7 +46,7 @@ HospitalManagementSystem/
 Run these commands from the directory containing the `hospital` folder:
 
 ```bash
-javac -d out hospital/model/*.java hospital/service/*.java hospital/ui/*.java hospital/HospitalManagementApp.java hospital/ServiceTest.java
+javac -d out model/*.java service/*.java ui/*.java HospitalManagementApp.java ServiceTest.java
 ```
 
 ### Launch the application
